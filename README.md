@@ -89,6 +89,8 @@ Protection Elements
 • AGI evolves with each data input, continuously learning and improving strategies.
 
 The intellectual property rights for this idea are registered with the Saudi Authority for Intellectual Property under application number:SA1020259665
+
+Using, copying, modifying, or transferring this idea without the owner's written permission is prohibited. Therefore intellectual property rights.
 https://exchange-t.com
 
 https://forum.cardano.org/t/a-project-idea-for-comprehensive-data-processing-using-artificial-intelligence-with-proof-of-compatibility-abstract/152446
